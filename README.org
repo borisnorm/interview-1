@@ -1,1 +1,2 @@
 This project is my summary of the interview I met the required knowledge.
+1.Discrete mathematics

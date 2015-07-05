@@ -1,3 +1,4 @@
 This project is my summary of the interview I met the required knowledge.
 1.Discrete mathematics
 2.computer networks
+3.data structure
